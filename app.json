@@ -1,0 +1,12 @@
+{
+  "name": "meme-game",
+  "displayName": "meme-game",
+  "expo": {
+    "name": "meme-game",
+    "slug": "meme-game",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
